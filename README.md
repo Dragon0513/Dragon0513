@@ -11,7 +11,7 @@
 - **grocery-shop(https://github.com/dragon0513/grocery-shop)**: Groceries-List enables simple and efficient management of your shopping entries. :bulb:
 - **react-async-decorator(https://github.com/dragon0513/react-async-decorator)**: New way to organize your asynchronous flow in react applications! :sparkles:
 ## :seedling: Currently Learning
-:mag: Exploring TypeScript and Next.js to level up my skills!
+:mag: Exploring n8n and hono.js to level up my skills!
 ## :mailbox: Let's Connect!
 :speech_balloon: Reach out if you want to collaborate!
 Thanks for stopping by! :star:

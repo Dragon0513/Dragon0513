@@ -1,6 +1,4 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=header">
-
-  ![Header](./header.png)
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=7years+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
@@ -82,16 +80,16 @@
 🤝 Dedicated to Delivering Quality on Time 🤝</p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Web-Dev-Master1117&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
+  <img src="https://github-profile-trophy.vercel.app/?username=dragon0513&amp;theme=dracula&amp;row=2&amp;no-bg=true&amp;column=3&amp;margin-w=15&amp;margin-h=15">
 </p>
 <p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <p align="center">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=Web-Dev-Master1117&amp;show_icons=true&amp;count_private=true&amp;theme=darcula&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000">
-  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Web-Dev-Master1117&amp;layout=compact&amp;hide_border=true&amp;theme=darcula&amp;bg_color=00000000&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Web-Dev-Master1117&amp;theme=darcula&amp;hide_border=true&amp;background=FFFFFF00">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=dragon0513&amp;show_icons=true&amp;count_private=true&amp;theme=darcula&amp;hide_border=true&amp;hide=issues,contribs&amp;bg_color=00000000">
+  <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragon0513&amp;layout=compact&amp;hide_border=true&amp;theme=darcula&amp;bg_color=00000000&amp;langs_count=6&amp;hide=jupyter%20notebook,tex,css,php">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dragon0513&amp;theme=darcula&amp;hide_border=true&amp;background=FFFFFF00">
 </p><p align="center"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></p>
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Web-Dev-Master1117}/count.svg"></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{dragon0513}/count.svg"></p> 
 <br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=7B68EE&amp;height=120&amp;section=footer"> </div></b>

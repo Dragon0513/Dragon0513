@@ -38,7 +38,7 @@
 </ul>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize,ai">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,py,django,spring,flask,fastapi,express,prisma,nestjs,sequelize,ai">
   </a>
 </p>
 <img align="right" alt="GIF" height="260px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif">

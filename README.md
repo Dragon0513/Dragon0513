@@ -2,7 +2,7 @@
 <p>
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"></p>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=A020F0&amp;size=30&amp;center=false&amp;lines=7years+Experience+...;Certified+in+over+50+Skills...;built+over+30+Projects..."></p>
- <p>I'm a Senior Full-Stack Engineer with over <b>7 years of experience</b> specializing in cutting-edge <b>web development</b> and <b>AI-powered chatbot </b> solutions. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b>
+ <p>I'm a Senior Full-Stack Engineer with over <b>7 years of experience</b> specializing in cutting-edge <b>web development</b>, <b>blockchain technology</b> and <b>AI integrating </b> solutions. <br>My expertise lies in crafting high-quality, responsive, and scalable web applications with a focus on brilliant <b>UX/UI</b>  and seamless <b>cloud computing</b>  integration. <br>Let's bring your project to life with innovative solutions and technologies!</p><b>
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50">
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50">
